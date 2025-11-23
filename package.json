@@ -21,7 +21,7 @@
     "file-type": "21.1.1",
     "lucide-react": "0.356.0",
     "mammoth": "1.11.0",
-    "next": "15.1.4",
+    "next": "15.2.3",
     "openai": "4.42.0",
     "pdf-parse": "2.4.5",
     "postgres": "3.4.4",
@@ -42,8 +42,5 @@
     "babel-plugin-react-compiler": "1.0.0",
     "tailwindcss": "4",
     "typescript": "5"
-  },
-  "engines": {
-    "node": "20.x"
   }
 }
